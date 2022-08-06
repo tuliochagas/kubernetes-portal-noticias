@@ -3,5 +3,5 @@ Pequena aplicação interagindo com bancos de dados mysql, utilizando recursos d
 
 url para acesso:
 portal-noticias: http://localhost:30000
-sistem-noticias: http://localhost:30001
+sistema-noticias: http://localhost:30001
 
